@@ -1,0 +1,3 @@
+float calcular_seno(float angulo_radianos);//função definida para calcular o seno de um angulo em radiano definindo sua variavel de entrada e o tipo de saida
+float calcular_cosseno(float angulo_radianos);//função definida para calcular o cosseno de um angulo em radiano definindo sua variabel de entrada e o tipo de saida
+float calcular_tangente(float angulo_radianos);//funcao definida para calcular a tangente de um angulo em radiano definindo sua variabel de entrada e o tipo de saida
